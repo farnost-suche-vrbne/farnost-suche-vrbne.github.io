@@ -11,5 +11,6 @@ table {
     border-color: orangered;
 }
 .oddeleni {
-    border-right: 8px solid black;
+    border-right: 4px black;
+    border-left: 4px black;
 }
