@@ -11,6 +11,6 @@ table {
     border-color: orangered;
 }
 hr.oddeleni {
-    border-right: 4px black;
-    border-left: 4px black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
 }
