@@ -10,3 +10,6 @@ footer {
 table {
     border-color: orangered;
 }
+.oddeleni {
+    border-right: 8px solid #bbb;
+}
